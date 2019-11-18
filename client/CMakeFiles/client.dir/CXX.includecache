@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grads/alam/project2/client/client.cpp
+sstream
+-
+zconf.h
+-
+netdb.h
+-
+strings.h
+-
+fstream
+-
+cstring
+-
+arpa/inet.h
+-
+algorithm
+-
+client.h
+/home/grads/alam/project2/client/client.h
+
+/home/grads/alam/project2/client/client.h
+iostream
+-
+vector
+-
+
